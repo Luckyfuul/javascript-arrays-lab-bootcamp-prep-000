@@ -23,5 +23,5 @@ function appendKitten(name){
    return newVar
  }
  function removeLastKitten(){
-   
+   return 
  }
