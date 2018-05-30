@@ -23,5 +23,5 @@ function appendKitten(name){
    return newVar
  }
  function removeLastKitten(){
-   return kittens.slice(2,3)
+   return kittens.slice(0,1)
  }
